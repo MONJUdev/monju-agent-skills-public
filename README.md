@@ -15,13 +15,16 @@ Recommended Pages settings:
 ## Current Files
 
 - latest: `public/monju-au-rep-crm-skill.md`
-- immutable: `public/versions/monju-au-rep-crm-skill-2026-07-03.md`
+- current immutable:
+  `public/versions/monju-au-rep-crm-skill-2026-07-03-onboarding.md`
+- previous immutable:
+  `public/versions/monju-au-rep-crm-skill-2026-07-03.md`
 - manifest: `public/manifest.json`
 
 Expected Markdown SHA-256:
 
 ```text
-b4473a66679a3b0165c54d7d5b9bcc19189b87853edf5d8a7a6071faf577a15f
+11e8ecd9df03cd42a6846f572e031e587199ba20df8d9b90b1b9afe24ef707ad
 ```
 
 ## Source
