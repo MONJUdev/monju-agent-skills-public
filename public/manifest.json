@@ -1,19 +1,19 @@
 {
   "title": "Monju AU Rep CRM Agent Skill",
-  "version": "2026-07-03-delete-markers",
+  "version": "2026-07-03-evidence-void",
   "status": "active",
-  "releasedAt": "2026-07-03T08:20:00.000Z",
+  "releasedAt": "2026-07-03T08:50:00.000Z",
   "portalUrl": "https://monjupartners.odoo.com/monju-au-rep",
   "latestUrl": "https://agents.monjupartners.com/monju-au-rep-crm-skill.md",
-  "datedUrl": "https://agents.monjupartners.com/versions/monju-au-rep-crm-skill-2026-07-03-delete-markers.md",
+  "datedUrl": "https://agents.monjupartners.com/versions/monju-au-rep-crm-skill-2026-07-03-evidence-void.md",
   "source": {
     "path": "exports/monju-au-rep-agent-skill-2026-07-02.md",
-    "sha256": "ebee8589e9f4f9d04da0daf0207b7b1f8e2ca92ad03edbe03dd7cd4b062a1840"
+    "sha256": "7e73cdbc77dde0e251d0f0fe0fd9b4afd9be4aff8c9403eb6328259e5f050395"
   },
   "hosted": {
     "latestPath": "/monju-au-rep-crm-skill.md",
-    "datedPath": "/versions/monju-au-rep-crm-skill-2026-07-03-delete-markers.md",
-    "sha256": "80de859195847d38094e4022587b8938918e760edced1bc5cc126671f3b254f9"
+    "datedPath": "/versions/monju-au-rep-crm-skill-2026-07-03-evidence-void.md",
+    "sha256": "2f79872595bf4df466899f55d38565307f10456e4e783f6fc21250249efdb7f9"
   },
   "stopConditions": [
     "Do not use Ivan or Monju operator credentials.",
