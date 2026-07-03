@@ -1,19 +1,19 @@
 {
   "title": "Monju AU Rep CRM Agent Skill",
-  "version": "2026-07-03-onboarding",
+  "version": "2026-07-03-field-guide",
   "status": "active",
-  "releasedAt": "2026-07-03T07:15:00.000Z",
+  "releasedAt": "2026-07-03T07:30:00.000Z",
   "portalUrl": "https://monjupartners.odoo.com/monju-au-rep",
   "latestUrl": "https://agents.monjupartners.com/monju-au-rep-crm-skill.md",
-  "datedUrl": "https://agents.monjupartners.com/versions/monju-au-rep-crm-skill-2026-07-03-onboarding.md",
+  "datedUrl": "https://agents.monjupartners.com/versions/monju-au-rep-crm-skill-2026-07-03-field-guide.md",
   "source": {
     "path": "exports/monju-au-rep-agent-skill-2026-07-02.md",
-    "sha256": "c10036a194ab238b144f5ba07193a1f9eae297c536bd3fd1b12e3d16e6a8a9a9"
+    "sha256": "26540c7466c14fb48abc18def19464bcad9411711de304e40a4e2d8dc104371d"
   },
   "hosted": {
     "latestPath": "/monju-au-rep-crm-skill.md",
-    "datedPath": "/versions/monju-au-rep-crm-skill-2026-07-03-onboarding.md",
-    "sha256": "11e8ecd9df03cd42a6846f572e031e587199ba20df8d9b90b1b9afe24ef707ad"
+    "datedPath": "/versions/monju-au-rep-crm-skill-2026-07-03-field-guide.md",
+    "sha256": "11ff15c0dd60b85d1ebed9ca452707925d926eeca49d8c1a7cb0bf0eb3ba22d4"
   },
   "stopConditions": [
     "Do not use Ivan or Monju operator credentials.",

@@ -16,6 +16,8 @@ Recommended Pages settings:
 
 - latest: `public/monju-au-rep-crm-skill.md`
 - current immutable:
+  `public/versions/monju-au-rep-crm-skill-2026-07-03-field-guide.md`
+- previous immutable:
   `public/versions/monju-au-rep-crm-skill-2026-07-03-onboarding.md`
 - previous immutable:
   `public/versions/monju-au-rep-crm-skill-2026-07-03.md`
@@ -24,7 +26,7 @@ Recommended Pages settings:
 Expected Markdown SHA-256:
 
 ```text
-11e8ecd9df03cd42a6846f572e031e587199ba20df8d9b90b1b9afe24ef707ad
+11ff15c0dd60b85d1ebed9ca452707925d926eeca49d8c1a7cb0bf0eb3ba22d4
 ```
 
 ## Source
