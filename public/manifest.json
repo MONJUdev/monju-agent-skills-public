@@ -1,0 +1,24 @@
+{
+  "title": "Monju AU Rep CRM Agent Skill",
+  "version": "2026-07-03",
+  "status": "active",
+  "generatedAt": "2026-07-03T04:16:59.974Z",
+  "portalUrl": "https://monjupartners.odoo.com/monju-au-rep",
+  "latestUrl": "https://agents.monjupartners.com/monju-au-rep-crm-skill.md",
+  "datedUrl": "https://agents.monjupartners.com/versions/monju-au-rep-crm-skill-2026-07-03.md",
+  "source": {
+    "path": "exports/monju-au-rep-agent-skill-2026-07-02.md",
+    "sha256": "1b37728351e112e3b1b45f58183a7534c3cc888302f09fa9d05b02e9f2015629"
+  },
+  "hosted": {
+    "latestPath": "/monju-au-rep-crm-skill.md",
+    "datedPath": "/versions/monju-au-rep-crm-skill-2026-07-03.md",
+    "sha256": "b4473a66679a3b0165c54d7d5b9bcc19189b87853edf5d8a7a6071faf577a15f"
+  },
+  "stopConditions": [
+    "Do not use Ivan or Monju operator credentials.",
+    "Do not access unassigned accounts or pipeline.",
+    "Do not issue quotes, promise stock, change terms, or change commission eligibility.",
+    "Do not create, edit, or delete allocation rows."
+  ]
+}
