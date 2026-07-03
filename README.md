@@ -16,17 +16,17 @@ Recommended Pages settings:
 
 - latest: `public/monju-au-rep-crm-skill.md`
 - current immutable:
-  `public/versions/monju-au-rep-crm-skill-2026-07-03-field-guide.md`
-- previous immutable:
-  `public/versions/monju-au-rep-crm-skill-2026-07-03-onboarding.md`
-- previous immutable:
-  `public/versions/monju-au-rep-crm-skill-2026-07-03.md`
+  `public/versions/monju-au-rep-crm-skill-2026-07-03-agent-agnostic.md`
+- previous immutables:
+  - `public/versions/monju-au-rep-crm-skill-2026-07-03-field-guide.md`
+  - `public/versions/monju-au-rep-crm-skill-2026-07-03-onboarding.md`
+  - `public/versions/monju-au-rep-crm-skill-2026-07-03.md`
 - manifest: `public/manifest.json`
 
 Expected Markdown SHA-256:
 
 ```text
-11ff15c0dd60b85d1ebed9ca452707925d926eeca49d8c1a7cb0bf0eb3ba22d4
+2e7afe6e19f9806ffe77db46987d4f39170464dc718c6989f18833c8eb831717
 ```
 
 ## Source
