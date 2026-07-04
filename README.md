@@ -16,8 +16,9 @@ Recommended Pages settings:
 
 - latest: `public/monju-au-rep-crm-skill.md`
 - current immutable:
-  `public/versions/monju-au-rep-crm-skill-2026-07-04-api-appendix.md`
+  `public/versions/monju-au-rep-crm-skill-2026-07-04-void-label.md`
 - previous immutables:
+  - `public/versions/monju-au-rep-crm-skill-2026-07-04-api-appendix.md`
   - `public/versions/monju-au-rep-crm-skill-2026-07-03-evidence-void.md`
   - `public/versions/monju-au-rep-crm-skill-2026-07-03-delete-markers.md`
   - `public/versions/monju-au-rep-crm-skill-2026-07-03-agent-agnostic.md`
@@ -29,7 +30,7 @@ Recommended Pages settings:
 Expected Markdown SHA-256:
 
 ```text
-fd169a4bea61a9c5f9e4bf7f1f7c99b4c08bc0675e79ffacb1087f6e18dbc267
+ce547ef05a0b53e1ae4a2c31edb2ff8ffa12d1baacf026f5ba12cbbeed94cf4f
 ```
 
 ## Source
